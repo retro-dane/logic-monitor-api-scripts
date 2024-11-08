@@ -16,4 +16,7 @@ Python 3.x: Ensure Python 3.x is installed on your machine.
 
 ## Dependencies
 This project uses requests to make HTTP requests. Install dependencies with the following command:
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+
+```
