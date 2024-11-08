@@ -1,4 +1,4 @@
-# Logic Monitor Api Scrips
+# Logic Monitor Api Scripts
 A curated collection of scripts for interacting with the LogicMonitor API to perform essential tasks such as retrieving, updating, deleting, and creating different sections within the LogicMonitor platform. This project is designed to streamline various administrative tasks on LogicMonitor, improving efficiency and automation capabilities.
 
 ## Features
